@@ -1,0 +1,19 @@
+.dash{
+    float: left;
+    background-color:#571f14;
+    height: 670px;
+    width: 60%;
+    
+    
+}
+.dash1{
+    float:right;
+   text-align:center;
+}
+li{
+    list-style-type: none;
+    padding-top: 100px;
+    color: black;
+    font-family: Impact;
+    
+}
